@@ -1,0 +1,43 @@
+En este vídeo vamos a ver cómo podemos instalar Python utilizando el sistema operativo Windows.
+
+Para eso nosotros vamos a venir acá y vamos a abrir nuestro explorador web y aquí nosotros vamos a buscar
+
+Python.
+
+Deberíamos abrir en este caso nuestra de www.
+
+Punto Python o rgo.
+
+Una vez que nosotros estemos acá adentro, nos vamos a venir aquí a esta pestaña que dice Download y
+
+aquí nos va a mostrar Download for Windows y pinchamos acá.
+
+Fíjense en este caso que para las versiones de Python 3.5 en adelante, Windows XP o versiones anteriores
+
+a ésta no se pueden utilizar, por lo que van a necesitar un sistema operativo como Windows 7, Windows
+
+8 o en el caso mío, Windows 10.
+
+Luego de eso les va a mostrar este pequeño diálogo que se encuentra acá abajo, donde van a poder guardar
+
+o van a poder ejecutar Python.
+
+Yo les voy a dar clic a Run y aquí como podemos ver, nos está mostrando el instalador de Python para
+
+que nosotros no tengamos problemas.
+
+Utilizando Python en un futuro, lo que haremos será habilitar esta opción que aparece acá de Python
+
+3.8 Tu paz.
+
+Eso nos permitirá a nosotros ejecutar Python como usuarios sin tener que ser administrador.
+
+Luego de eso, nosotros vamos a pinchar acá en Install Now.
+
+Nos va a decir que Python quiere hacer cambios y nosotros le vamos a dar así.
+
+Y finalmente, la instalación ha sido exitosa.
+
+Luego de eso podemos pinchar aquí en Clouds y con esto nosotros ya tenemos instalado Python dentro de
+
+nuestra máquina.

@@ -1,0 +1,53 @@
+Ahora es necesario que nosotros utilicemos un editor de texto con el cual nosotros vamos a trabajar
+
+y vamos a crear nuestras aplicaciones en el curso voy a estar utilizando BIM, pero también sé que hay
+
+muchas personas que no les gusta BIM o que prefieren utilizar otros editores de texto.
+
+En el caso que no tengas ningún editor de texto instalado, vamos a instalar en este video de Sekou
+
+que es bastante fácil y sencillo de seguirlo.
+
+Vamos, el video para eso.
+
+Como pueden ver, ya tengo tengo todavía abierta mi ni match.
+
+Vamos a abrir el explorador web, ya que nosotros vamos a escribir de ese code.
+
+Voy a cambiar mi teclado porque lo tengo en inglés, pero yo uso Dvorak, escribimos B.S.
+
+Code y esto nos va a mostrar esta pantalla.
+
+Apenas nosotros lo busquemos nos va a mostrar Visual Studio Code y aquí nosotros vamos a pinchar en
+
+Download.
+
+Aquí nos va a dar las distintas alternativas.
+
+Si estás utilizando Mac, tienes que pinchar acá.
+
+En el caso que estés utilizando Linux, puedes utilizar estos que se encuentran aquí.
+
+Pero nosotros estamos utilizando Windows, así que vamos a pinchar aquí donde dice Windows y eso nos
+
+va a mostrar este diálogo que se encuentra acá abajo.
+
+Aquí nosotros vamos a pinchar en Run.
+
+Finalmente nos ambre el instalador para que nosotros podamos utilizar de Sekou.
+
+Y aquí yo voy a Pincha que acepto, acepto, acepto los términos y condiciones Pynchon Gigante siguentes
+
+y dejo todo tal cual por defecto, tal como viene, salvo esta parte que se encuentra acá, donde yo
+
+le voy a indicar que quiero, creo, quiero crear un acceso directo en el escritorio.
+
+Pynchon Eso es lo que le doy a siguiente y finalmente presiono en instalar.
+
+Esto es lo que va a hacer, por supuesto, instala de este code dentro de mi maquina.
+
+Y con esto nosotros ya tenemos un editor de texto listo para poder trabajar.
+
+Ahora vamos a cerrar el explorador web y nos deberíamos quedar solamente con de ese modo.
+
+Ahora podemos continuar con el siguiente video.
