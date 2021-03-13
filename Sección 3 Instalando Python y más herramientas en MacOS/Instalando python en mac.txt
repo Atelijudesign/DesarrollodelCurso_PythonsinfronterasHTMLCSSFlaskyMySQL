@@ -1,0 +1,67 @@
+Para nosotros instalar Python dentro de nuestro Mac o vamos a necesitar seguir una serie de pasos para
+
+asegurarnos de poder instalarlo correctamente.
+
+Tenemos que instalar ex skout porque va a venir con unas herramientas que nosotros necesitamos.
+
+También vamos a tener que instalar homebrew y luego de eso podemos proceder a instalar Python.
+
+Vamos a ver cómo se hace eso.
+
+Lo primero que tenemos que hacer acá es abrir nuestra App Store.
+
+Y aquí adentro nosotros vamos a buscar el paquete de excave.
+
+Y aquí nos va a dar la opción de instalarlo.
+
+En este caso nosotros sencillamente presionamos en instalar y en el caso que nosotros hagamos una instalación
+
+flex fresca de éxito porque no lo teníamos instalado antes, vamos a tener que ejecutar un comando para
+
+que nos instale más herramientas que nosotros vamos a necesitar.
+
+En este caso tenemos que ejecutar skout selecto menos menos instal.
+
+Aquí nos va a indicar que en este caso esta línea de comandos ya se encuentra instalada porque yo ya
+
+lo instale.
+
+Si tú no lo tienes, en este caso te va a continuar con el paso a paso de todo lo que tú necesitas instalar.
+
+Luego de esto, nosotros tenemos que instalar Homebrew.
+
+Homebrew es un manejador de paquetes que se utiliza en Mac o ESTEM para que nosotros podamos instalar
+
+más dependencias, como por ejemplo en este caso Python.
+
+Para nosotros utilizar homebrew tendremos que buscar en este caso Brew punto SH.
+
+Vamos a ingresar a esta web regle para ver qué es lo que nos muestra y aquí nosotros podemos ver que
+
+nos entrega inmediatamente una instrucción que nosotros debemos ejecutar para instalar Umbro aquí nosotros
+
+sencillamente copiamos esto.
+
+Vamos.
+
+A nuestra terminal.
+
+Y podemos copiar esto, le damos a Enter y eso se encargará de instalar homebrew dentro de nuestra máquina.
+
+Y una vez que nosotros ya tengamos instalado Umbrío dentro de nuestra máquina, vamos a poder ejecutar
+
+el siguiente comando que es brew install python.
+
+Este comando se encarga de instalar Python y también se encarga de instalar PIV, que es el manejador
+
+de dependencias de Python.
+
+Aquí nosotros presionamos Enter.
+
+Nos va a indicar por supuesto que yo ya lo tengo instalado, pero si tú no lo tienes instalado, en
+
+este caso te va a empezar a mostrar todas las dependencias que se encuentra descargando y lo que se
+
+encuentra realizando.
+
+Una vez que nosotros ya tenemos esto, podemos pasar al siguiente video.
